@@ -8,8 +8,8 @@ Create an EC2 instance with an AMI of your choice. In this guide, I'll be using 
 
 ### STEP 2
 Open Cloudshell in the management console.
-![Image Alt Text](./Images\Cloudshell-1.png)
+![Image Alt Text](.\Images\Cloudshell-1.png)
 
 It should open like this.
 
-![Image Alt Text](./Images\Cloudshell-open.png)
+![Image Alt Text](.\Images\Cloudshell-open.png)
